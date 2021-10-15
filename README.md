@@ -1,4 +1,5 @@
 # mpags-cipher
+<<<<<<< HEAD
 SOFTWARE DEVELOPMENT WITH C++: A simple command line tool for encrypting/decrypting text using classical ciphers. 
 
 # How to install
@@ -6,3 +7,4 @@ SOFTWARE DEVELOPMENT WITH C++: A simple command line tool for encrypting/decrypt
 # Authors
 
 # Documentation
+=======
