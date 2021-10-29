@@ -1,2 +1,10 @@
 # mpags-cipher
-A simple command line tool for encrypting/decrypting text using classical ciphers
+<<<<<<< HEAD
+SOFTWARE DEVELOPMENT WITH C++: A simple command line tool for encrypting/decrypting text using classical ciphers. 
+
+# How to install
+
+# Authors
+
+# Documentation
+=======
